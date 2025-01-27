@@ -1,0 +1,8 @@
+body {
+    font-family: "Arial";
+    color: white;
+    background-color: rgb(12, 61, 86);
+    text-align: center;
+    background-image: url(images/raininghearts.gif);
+    background-size: cover;
+}
