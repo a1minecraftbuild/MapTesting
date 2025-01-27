@@ -6,3 +6,13 @@ body {
     background-image: url(images/raininghearts.gif);
     background-size: cover;
 }
+/* @media screen and (max-width: 900px) {
+    body {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 600px) {
+    body {
+        width: 100%;
+    }
+} */
